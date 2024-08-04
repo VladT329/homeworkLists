@@ -16,7 +16,7 @@ public class Main extends EmployeeService{
 
         employeeService.addEmp("John", "Markovich");
         employeeService.addEmp("Liza", "Kovaleva");
-        //employeeService.addEmp("Liza", "Kovaleva");
+        //employeeService.addEmp("Debil", "Olegovich");
         //employeeService.addEmp("Natasha", "Drozdova");
 
         //for (Employee employee : employeeService.employees){
